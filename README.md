@@ -1,4 +1,4 @@
-# Crop-Recommendation-System-Using-Machine-Learning
+# Crop Recommendation System Using Machine Learning
 Crop Recommendation System using Machine Learning Code, Document And Video Tutorial
 
 ![crop](https://github.com/user-attachments/assets/3d1e19ae-8530-45c7-8ab2-0bfdae070172)
